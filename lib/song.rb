@@ -30,5 +30,5 @@ class Song
         #     else
         #         Artist.new(@name)
         #         @artist = Artist.name
-        # end
+         end
 end
